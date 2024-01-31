@@ -6,10 +6,14 @@
 - 🌱 I’m currently learning AWS
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-sFdV7lru7akRWHWRLGo43zrStP6ZOjD/view?usp=sharing)
 
+## Problem Solving Solutions 🧠
+- [LeetCode](https://leetcode.com/Yousef03/) : 27 problems solved in total (1 hard, 14 medium, 12 easy) 👉🏻 [Solutions](https://github.com/yousefyasser/leetcode-problem-solving) 
+- [CodeForces](https://codeforces.com/profile/yousef03) : 318 problems solved, 35 contests, __Rating 1358__
+- [ICPC](https://icpc.global/ICPCID/158LKQ67AHT5) : 29th place among 50 GUC teams in ECPC 2023 qualification round
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yousef-yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef-yasser" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yousef03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yousef03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
