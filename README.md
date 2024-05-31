@@ -3,12 +3,12 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefyasser&theme=tokyonight&show_icons=true&locale=en" alt="yousefyasser" /></p>
 
 - 📫 How to reach me **yousefyasser6@gmail.com**
-- 🌱 I’m currently learning React.js
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1vMc207YKBc_gGtH9_ceRWcWIWYjwANSL/view?usp=sharing)
+- 🌱 I’m currently learning about MERN stack
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18k_5v7GsYTRsRj2VWvrqwaoHb0csjOrg/view?usp=sharing)
 
 ## Problem Solving Solutions 🧠
-- [LeetCode](https://leetcode.com/Yousef03/) : 111 problems solved in total (2 hard, 73 medium, 36 easy) 👉🏻 [Solutions](https://github.com/yousefyasser/leetcode-problem-solving) 
-- [CodeForces](https://codeforces.com/profile/yousef03) : 409 problems solved, 41 contests, __Rating 1389__
+- [LeetCode](https://leetcode.com/Yousef03/) : 116 problems solved in total (2 hard, 77 medium, 37 easy) 👉🏻 [Solutions](https://github.com/yousefyasser/leetcode-problem-solving) 
+- [CodeForces](https://codeforces.com/profile/yousef03) : 427 problems solved, 43 contests, __Rating 1373__
 - [ICPC](https://icpc.global/ICPCID/158LKQ67AHT5) : 29th place among 50+ GUC teams in ECPC 2023 qualification round
 
 <h3 align="left">Connect with me:</h3>
